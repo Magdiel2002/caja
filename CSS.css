@@ -1,0 +1,30 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	background-color:rgb(189, 209, 8);
+}
+#container{
+	width:200px;
+	height:200px;
+	background:green;
+	position:relative;
+}
+#box{
+	width:50px;
+	height:50px;
+	background:red;
+	position:absolute;
+}
+#box2{
+	width:50px;
+	height:50px;
+	background:blue;
+	position:absolute;
+}
+
+#boxi{
+	width:50px;
+	height:50px;
+	background-color:aqua;
+	position:absolute;
+}
